@@ -363,8 +363,6 @@ dependencies:
     - convertdate==2.2.0
     - descartes==1.1.0
     - ephem==3.7.7.1
-    - face-recognition==1.2.3
-    - face-recognition-models==0.3.0
     - fbprophet==0.6
     - fiona==1.8.13.post1
     - geopandas==0.3.0
@@ -372,7 +370,6 @@ dependencies:
     - holidays==0.10.1
     - lunarcalendar==0.0.9
     - munch==2.5.0
-    - pip==9.0.1
     - plotly==4.5.4
     - plotly-geo==1.0.0
     - pymeeus==0.3.7
@@ -381,5 +378,4 @@ dependencies:
     - pystan==2.19.1.1
     - setuptools-git==1.2
     - shapely==1.7.0
-    - tensorboard==1.12.2
 prefix: /home/abhay/anaconda3
